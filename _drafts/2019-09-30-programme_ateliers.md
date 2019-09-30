@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGSession - Le programme de la journée des ateliers
+title: Le programme de la journée des ateliers
 author: Laura Ricci, Virginie Jourdan
 twitter_id: pgsession
 tags: [PostgreSQL, pgsession, pgsession12, ateliers]
@@ -40,7 +40,7 @@ En voici le programme :
 
 
 
-**À très vite pour plus d'informations sur la journée des Conférences, prévue le 21 novembre !**
+**À très vite pour plus d'informations sur la journée des Conférences du 21 novembre !**
 
 
  
