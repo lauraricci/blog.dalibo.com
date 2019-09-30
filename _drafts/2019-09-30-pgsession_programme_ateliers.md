@@ -21,22 +21,24 @@ Découvrez aujourd'hui le programme du 20 novembre !
 Organisée à l'[Espace La Rochefoucauld](https://formeret.fr/nos-espaces/espace-la-rochefoucauld/), cette journée vous donnera la chance de participer à quatre ateliers. 
 Une participation de 180€ TTC vous est demandée pour la journée, incluant les pauses café et le déjeuner. 
 
-**En voici le programme :**
+En voici le programme :
 
-Matinée (9H30 - 12H30) :
+**Matinée (9H30 - 12H30)**
 
-   * **PostgreSQL 12** : les nouveautés de la nouvelle version. [Animé par Franck Boudehen et Thibaut Madelaine]
-   * **E-Maj** : /à préciser/. [Animé par Philippe Beaudoin et Thibaud Walkowiak]
+   * PostgreSQL 12 : les nouveautés de la nouvelle version. [Animé par Franck Boudehen et Thibaut Madelaine]
+   * E-Maj : /à préciser/. [Animé par Philippe Beaudoin et Thibaud Walkowiak]
 
-Après-midi (14H00 - 17H00) :
+**Après-midi (14H00 - 17H00)**
 
-   * **Supervision** : /à préciser/. [Animé par Franck Boudehen et Thibaut Madelaine]
-   * **PostGIS** : exposer vos données sur le web. [Animé par Régis Haubourg et Vincent Mora]
+   * Supervision : /à préciser/. [Animé par Franck Boudehen et Thibaut Madelaine]
+   * PostGIS : exposer vos données sur le web. [Animé par Régis Haubourg et Vincent Mora]
    
 
 [**Inscrivez-vous dès maintenant !**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
 
-**À très vite pour d'informations sur la journée des conférences (21 novembre) !**
+
+
+**À très vite pour plus d'informations sur la journée des Conférences, prévue le 21 novembre !**
 
 
  
